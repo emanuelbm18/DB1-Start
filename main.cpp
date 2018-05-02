@@ -1,3 +1,7 @@
+//Algoritmo "Desafio-de-Matemática"
+//Função: O programa deverá retornar em tela se o número digitado: é ou não PAR, é ou não IMPAR, é ou não maior que 10, o dobro do valor digitado, é ou não primo
+//Autor: Emanuel Bifon Marengoni
+//Data: 02/05/2018
 #include <stdio.h>
 #include <iostream>
 using namespace std;
